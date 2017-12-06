@@ -1,0 +1,18 @@
+.customDiv{
+	background-color:orange;
+	min-height: 180px;
+	margin:5px;
+	text-align: center;
+	font-size: large;
+	padding: 1px;
+}
+.customDiv1{
+	background-color:yellow;
+	min-height: 180px;
+	margin:5px;
+	text-align: center;
+	font-size: large;
+	padding: 1px;
+}
+
+
